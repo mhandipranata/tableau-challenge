@@ -14,9 +14,21 @@ Data Source: https://www.citibikenyc.com/system-data
 Tableau Public Link: https://public.tableau.com/profile/michelle.handipranata#!/vizhome/Citibike_Analysis_15877818021140/BikesinMostPopularStations
 <br><br>
 
-Create couple graphs to analyze, find the unique phenomenons of the data, and see the relationships between each columns. Apply the analyis to different types of graphs depending on the relationships (e.g. line, bar, bubble, and map charts).
+**Create couple graphs to analyze, find the unique phenomenons of the data, and see the relationships between each columns. Apply the analyis to different types of graphs depending on the relationships (e.g. line, bar, bubble, and map charts).**
+<br><br>
+![Map](screenshots/tableau_map.png)
 <br>
-Create dashboards as a summary of the phenomenons.
+![Line](screenshots/tableau_line.png)
 <br>
-Create a story to tell the connections of the findings of the analysis.
+![Bubble](screenshots/tableau_bubble.png)
+<br>
+![Scatter](screenshots/tableau_scatter.png)
+<br><br>
+**Create dashboards as a summary of the phenomenons.**
+<br><br>
+![Dashboard](screenshots/tableau_dashboard.png)
+<br><br>
+**Create a story to tell the connections of the findings to the analysis.**
+<br><br><br>
+![Story](screenshots/tableau_story.png)
 <br>
